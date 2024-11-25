@@ -34,7 +34,8 @@ This project is a web-based platform built using **HTML** and **CSS** to maintai
 
 This project is developed with:  
 - **HTML**: For structuring the content of the portal.  
-- **CSS**: For styling and visual presentation.  
+- **CSS**: For styling and visual presentation.
+- **Version Control:** Git & GitHub  
 
 ---
 
