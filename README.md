@@ -47,6 +47,6 @@ This project is developed with:
 - **GitHub:** trfahim
 
 ## 🚀 Live Demo:
-**https://trfahim.github.io/NeU-CSE-Student/**
+**https://trfahim.github.io/NeU-CSE-Student/index.html**
 
    
