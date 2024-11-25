@@ -39,16 +39,14 @@ This project is developed with:
 
 ---
 
-## ✉️ Contact:**
+## ✉️ Contact:
 **For questions or suggestions, feel free to reach out:**
 
-**Developer:** Tahsan Rahman Fahim
-**Email:** trfahim2023@gmail.com
-**GitHub:** trfahim
+- **Developer:** Tahsan Rahman Fahim
+- **Email:** trfahim2023@gmail.com
+- **GitHub:** trfahim
 
-Follow these steps to set up and run the project locally:  
+## 🚀 Live Demo:
+**https://trfahim.github.io/NeU-CSE-Student/**
 
-## 🚀 Live Demo:**
-2. **https://trfahim.github.io/NeU-CSE-Student/**
-3. 
    
