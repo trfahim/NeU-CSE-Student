@@ -43,7 +43,6 @@ This project is developed with:
 **For questions or suggestions, feel free to reach out:**
 
 - **Developer:** Tahsan Rahman Fahim
-- **Email:** trfahim2023@gmail.com
 - **GitHub:** trfahim
 
 ## 🚀 Live Demo:
